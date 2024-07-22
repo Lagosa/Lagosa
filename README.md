@@ -1,5 +1,5 @@
 ## Hi, I'm Zoltán 👋🏻 
-> I am currently studying **Computer Science** 👨🏻‍💻 at the **Technical University of Cluj-Napoca**.
+> I've completed my studies in **Computer Engineering** 👨🏻‍💻 at the **Technical University of Cluj-Napoca**.
 
 <h3> :mag: Interests: </h3>
 
